@@ -41,9 +41,9 @@
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 /*__write_selector_here__*/
-img[alt="Kitty "]{
+img[alt="Kitty 5"]{
   position: absolute;
-  z-index: 3;
+  z-index: 8;
   top: 217px;
   left: 223px;
 }
